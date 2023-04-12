@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - V01HolaMundo",
+            "request": "launch",
+            "mainClass": "V01HolaMundo"
+        }
+    ]
+}

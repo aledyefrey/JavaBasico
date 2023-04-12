@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-B: AledJefreyAviles
+Main-Class: V42Bienvenida
+X-COMMENT: Curso Java
